@@ -15,7 +15,7 @@ Analyze Linux file permissions in any directory: find world-readable, writable, 
 git clone https://github.com/lalitxploit/permission-analyzer.git
 cd permission-analyzer
 chmod +x permission-analyzer.sh
-./permission-analyzer.sh ./test-target
+./permission-analyzer.sh ./test-target (path of file)
 
 📁 Example Output
 bash
